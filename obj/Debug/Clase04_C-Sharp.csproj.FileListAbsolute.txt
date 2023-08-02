@@ -1,0 +1,6 @@
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase004_Vectores\bin\Debug\Clase004_Vectores.exe.config
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase004_Vectores\bin\Debug\Clase004_Vectores.exe
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase004_Vectores\bin\Debug\Clase004_Vectores.pdb
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase004_Vectores\obj\Debug\Clase004_Vectores.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase004_Vectores\obj\Debug\Clase004_Vectores.exe
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase004_Vectores\obj\Debug\Clase004_Vectores.pdb
