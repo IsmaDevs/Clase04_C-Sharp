@@ -5,4 +5,4 @@ Functions with C#
 
 This code is valid for console applications. Not for WindowsForms.
 ---
-This class shows how to perform functions in C#
+How to make two-dimensional arrays with C#
